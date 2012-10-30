@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns="http://schemas.microsoft.com/appx/2010/manifest">
+  <Identity Name="38850GridWorksApplication.BellyofAuthorityMetro" Publisher="CN=26F99B6E-5591-410F-AF6D-3DC96BD0E7C7" Version="1.0.0.3" />
+  <Properties>
+    <DisplayName>Belly of Authority Metro</DisplayName>
+    <PublisherDisplayName>GridWorks Applications</PublisherDisplayName>
+    <Logo>Images\BellyStoreLogo50.png</Logo>
+  </Properties>
+  <Prerequisites>
+    <OSMinVersion>6.2.1</OSMinVersion>
+    <OSMaxVersionTested>6.2.1</OSMaxVersionTested>
+  </Prerequisites>
+  <Resources>
+    <Resource Language="x-generate" />
+  </Resources>
+  <Applications>
+    <Application Id="App" Executable="$targetnametoken$.exe" EntryPoint="TheBellyofAuthority.App">
+      <VisualElements DisplayName="The Belly of Authority" Logo="Images\BellyLogo150.png" SmallLogo="Images\BellyStoreLogo30.png" Description="TheBellyofAuthority" ForegroundText="light" BackgroundColor="#5B0204" ToastCapable="false">
+        <DefaultTile ShowName="logoOnly" />
+        <SplashScreen Image="Images\BellySplash.png" />
+        <InitialRotationPreference>
+          <Rotation Preference="landscape" />
+          <Rotation Preference="landscapeFlipped" />
+        </InitialRotationPreference>
+      </VisualElements>
+    </Application>
+  </Applications>
+  <Capabilities>
+    <Capability Name="internetClient" />
+  </Capabilities>
+</Package>

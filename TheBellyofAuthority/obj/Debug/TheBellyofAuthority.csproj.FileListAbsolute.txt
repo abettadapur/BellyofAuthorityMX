@@ -1,0 +1,168 @@
+C:\Users\alexb_000\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\bin\Debug\TheBellyofAuthority.exe
+C:\Users\alexb_000\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\bin\Debug\TheBellyofAuthority.pdb
+C:\Users\alexb_000\documents\visual studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\bin\Debug\resources.pri
+C:\Users\alexb_000\documents\visual studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\bin\Debug\AppxManifest.xml
+C:\Users\alexb_000\documents\visual studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\bin\Debug\TheBellyofAuthority.build.appxrecipe
+C:\Users\alexb_000\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\bin\Debug\Callisto.dll
+C:\Users\alexb_000\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\bin\Debug\Fizzler.dll
+C:\Users\alexb_000\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\bin\Debug\HtmlAgilityPack.dll
+C:\Users\alexb_000\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\bin\Debug\Newtonsoft.Json.dll
+C:\Users\alexb_000\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\bin\Debug\Callisto.pri
+C:\Users\alexb_000\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\bin\Debug\Newtonsoft.Json.xml
+C:\Users\alexb_000\documents\visual studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\obj\Debug\App.g.i.cs
+C:\Users\alexb_000\documents\visual studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\obj\Debug\App.g.cs
+C:\Users\alexb_000\documents\visual studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\obj\Debug\Common\StandardStyles.g.i.cs
+C:\Users\alexb_000\documents\visual studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\obj\Debug\Common\StandardStyles.g.cs
+C:\Users\alexb_000\documents\visual studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\obj\Debug\DetailPage.g.i.cs
+C:\Users\alexb_000\documents\visual studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\obj\Debug\DetailPage.g.cs
+C:\Users\alexb_000\documents\visual studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\obj\Debug\HomePage.g.i.cs
+C:\Users\alexb_000\documents\visual studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\obj\Debug\HomePage.g.cs
+C:\Users\alexb_000\documents\visual studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\alexb_000\documents\visual studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\obj\Debug\App.xaml
+C:\Users\alexb_000\documents\visual studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\obj\Debug\Common\StandardStyles.xaml
+C:\Users\alexb_000\documents\visual studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\obj\Debug\DetailPage.xaml
+C:\Users\alexb_000\documents\visual studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\obj\Debug\HomePage.xaml
+C:\Users\alexb_000\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\obj\Debug\TheBellyofAuthority.exe
+C:\Users\alexb_000\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\obj\Debug\TheBellyofAuthority.pdb
+C:\Users\alexb_000\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\obj\Debug\TheBellyofAuthority.csproj.GenerateResource.Cache
+C:\Users\alexb_000\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\obj\Debug\priconfig.xml.intermediate
+C:\Users\alexb_000\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\obj\Debug\layout.resfiles.intermediate
+C:\Users\alexb_000\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\obj\Debug\resources.resfiles.intermediate
+C:\Users\alexb_000\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\obj\Debug\pri.resfiles.intermediate
+C:\Users\alexb_000\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\obj\Debug\priconfig.xml
+C:\Users\alexb_000\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\obj\Debug\layout.resfiles
+C:\Users\alexb_000\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\obj\Debug\resources.resfiles
+C:\Users\alexb_000\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\obj\Debug\pri.resfiles
+C:\Users\alexb_000\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\obj\Debug\LanguageQualifiers.txt
+C:\Users\alexb_000\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\obj\Debug\Callisto.pri.xml
+C:\Users\alexb_000\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\obj\Debug\ProjectArchitectures.txt
+C:\Users\alexb_000\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\obj\Debug\TheBellyofAuthority.csprojResolveAssemblyReference.cache
+C:\Users\alexb_000\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\obj\Debug\CommentPage.g.i.cs
+C:\Users\alexb_000\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\obj\Debug\CommentPage.g.cs
+C:\Users\alexb_000\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\obj\Debug\CommentPage.xaml
+C:\Users\Alex\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\bin\Debug\TheBellyofAuthority.exe
+C:\Users\Alex\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\bin\Debug\TheBellyofAuthority.pdb
+C:\Users\Alex\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\bin\Debug\resources.pri
+C:\Users\Alex\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\bin\Debug\AppxManifest.xml
+C:\Users\Alex\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\bin\Debug\TheBellyofAuthority.build.appxrecipe
+C:\Users\Alex\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\bin\Debug\Callisto.dll
+C:\Users\Alex\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\bin\Debug\Fizzler.dll
+C:\Users\Alex\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Alex\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Alex\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\bin\Debug\Callisto.pri
+C:\Users\Alex\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Alex\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\obj\Debug\TheBellyofAuthority.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\obj\Debug\App.g.i.cs
+C:\Users\Alex\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\obj\Debug\App.g.cs
+C:\Users\Alex\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\obj\Debug\CommentPage.g.i.cs
+C:\Users\Alex\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\obj\Debug\CommentPage.g.cs
+C:\Users\Alex\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\obj\Debug\Common\StandardStyles.g.i.cs
+C:\Users\Alex\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\obj\Debug\Common\StandardStyles.g.cs
+C:\Users\Alex\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\obj\Debug\DetailPage.g.i.cs
+C:\Users\Alex\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\obj\Debug\DetailPage.g.cs
+C:\Users\Alex\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\obj\Debug\HomePage.g.i.cs
+C:\Users\Alex\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\obj\Debug\HomePage.g.cs
+C:\Users\Alex\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Alex\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\obj\Debug\App.xaml
+C:\Users\Alex\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\obj\Debug\CommentPage.xaml
+C:\Users\Alex\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\obj\Debug\Common\StandardStyles.xaml
+C:\Users\Alex\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\obj\Debug\DetailPage.xaml
+C:\Users\Alex\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\obj\Debug\HomePage.xaml
+C:\Users\Alex\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\obj\Debug\TheBellyofAuthority.exe
+C:\Users\Alex\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\obj\Debug\TheBellyofAuthority.pdb
+C:\Users\Alex\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\obj\Debug\TheBellyofAuthority.csproj.GenerateResource.Cache
+C:\Users\Alex\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\obj\Debug\priconfig.xml.intermediate
+C:\Users\Alex\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\obj\Debug\layout.resfiles.intermediate
+C:\Users\Alex\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\obj\Debug\resources.resfiles.intermediate
+C:\Users\Alex\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\obj\Debug\pri.resfiles.intermediate
+C:\Users\Alex\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\obj\Debug\priconfig.xml
+C:\Users\Alex\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\obj\Debug\layout.resfiles
+C:\Users\Alex\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\obj\Debug\resources.resfiles
+C:\Users\Alex\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\obj\Debug\pri.resfiles
+C:\Users\Alex\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\obj\Debug\LanguageQualifiers.txt
+C:\Users\Alex\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\obj\Debug\Callisto.pri.xml
+C:\Users\Alex\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\obj\Debug\ProjectArchitectures.txt
+C:\Users\Alex\SkyDrive\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\bin\Debug\TheBellyofAuthority.exe
+C:\Users\Alex\SkyDrive\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\bin\Debug\TheBellyofAuthority.pdb
+C:\Users\Alex\SkyDrive\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\bin\Debug\resources.pri
+C:\Users\Alex\SkyDrive\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\bin\Debug\AppxManifest.xml
+C:\Users\Alex\SkyDrive\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\bin\Debug\Callisto.dll
+C:\Users\Alex\SkyDrive\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\bin\Debug\Fizzler.dll
+C:\Users\Alex\SkyDrive\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Alex\SkyDrive\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Alex\SkyDrive\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\bin\Debug\Callisto.pri
+C:\Users\Alex\SkyDrive\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Alex\SkyDrive\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\obj\Debug\TheBellyofAuthority.csprojResolveAssemblyReference.cache
+C:\Users\Alex\SkyDrive\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\obj\Debug\App.g.i.cs
+C:\Users\Alex\SkyDrive\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\obj\Debug\App.g.cs
+C:\Users\Alex\SkyDrive\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\obj\Debug\CommentPage.g.i.cs
+C:\Users\Alex\SkyDrive\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\obj\Debug\CommentPage.g.cs
+C:\Users\Alex\SkyDrive\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\obj\Debug\Common\StandardStyles.g.i.cs
+C:\Users\Alex\SkyDrive\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\obj\Debug\Common\StandardStyles.g.cs
+C:\Users\Alex\SkyDrive\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\obj\Debug\DetailPage.g.i.cs
+C:\Users\Alex\SkyDrive\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\obj\Debug\DetailPage.g.cs
+C:\Users\Alex\SkyDrive\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\obj\Debug\HomePage.g.i.cs
+C:\Users\Alex\SkyDrive\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\obj\Debug\HomePage.g.cs
+C:\Users\Alex\SkyDrive\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Alex\SkyDrive\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\obj\Debug\App.xaml
+C:\Users\Alex\SkyDrive\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\obj\Debug\CommentPage.xaml
+C:\Users\Alex\SkyDrive\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\obj\Debug\Common\StandardStyles.xaml
+C:\Users\Alex\SkyDrive\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\obj\Debug\DetailPage.xaml
+C:\Users\Alex\SkyDrive\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\obj\Debug\HomePage.xaml
+C:\Users\Alex\SkyDrive\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\obj\Debug\TheBellyofAuthority.exe
+C:\Users\Alex\SkyDrive\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\obj\Debug\TheBellyofAuthority.pdb
+C:\Users\Alex\SkyDrive\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\obj\Debug\TheBellyofAuthority.csproj.GenerateResource.Cache
+C:\Users\Alex\SkyDrive\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\obj\Debug\priconfig.xml.intermediate
+C:\Users\Alex\SkyDrive\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\obj\Debug\layout.resfiles.intermediate
+C:\Users\Alex\SkyDrive\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\obj\Debug\resources.resfiles.intermediate
+C:\Users\Alex\SkyDrive\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\obj\Debug\pri.resfiles.intermediate
+C:\Users\Alex\SkyDrive\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\obj\Debug\priconfig.xml
+C:\Users\Alex\SkyDrive\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\obj\Debug\layout.resfiles
+C:\Users\Alex\SkyDrive\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\obj\Debug\resources.resfiles
+C:\Users\Alex\SkyDrive\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\obj\Debug\pri.resfiles
+C:\Users\Alex\SkyDrive\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\obj\Debug\LanguageQualifiers.txt
+C:\Users\Alex\SkyDrive\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\obj\Debug\Callisto.pri.xml
+C:\Users\Alex\SkyDrive\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\obj\Debug\ProjectArchitectures.txt
+C:\Users\Alex\SkyDrive\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\bin\Debug\TheBellyofAuthority.build.appxrecipe
+C:\Users\Alex\SkyDrive\My Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\bin\Debug\TheBellyofAuthority.exe
+C:\Users\Alex\SkyDrive\My Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\bin\Debug\TheBellyofAuthority.pdb
+C:\Users\Alex\SkyDrive\My Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\bin\Debug\resources.pri
+C:\Users\Alex\SkyDrive\My Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\bin\Debug\AppxManifest.xml
+C:\Users\Alex\SkyDrive\My Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\bin\Debug\TheBellyofAuthority.build.appxrecipe
+C:\Users\Alex\SkyDrive\My Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\bin\Debug\Callisto.dll
+C:\Users\Alex\SkyDrive\My Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\bin\Debug\Fizzler.dll
+C:\Users\Alex\SkyDrive\My Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Alex\SkyDrive\My Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Alex\SkyDrive\My Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\bin\Debug\Callisto.pri
+C:\Users\Alex\SkyDrive\My Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Alex\SkyDrive\My Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\obj\Debug\TheBellyofAuthority.csprojResolveAssemblyReference.cache
+C:\Users\Alex\SkyDrive\My Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\obj\Debug\App.g.i.cs
+C:\Users\Alex\SkyDrive\My Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\obj\Debug\App.g.cs
+C:\Users\Alex\SkyDrive\My Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\obj\Debug\CommentPage.g.i.cs
+C:\Users\Alex\SkyDrive\My Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\obj\Debug\CommentPage.g.cs
+C:\Users\Alex\SkyDrive\My Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\obj\Debug\Common\StandardStyles.g.i.cs
+C:\Users\Alex\SkyDrive\My Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\obj\Debug\Common\StandardStyles.g.cs
+C:\Users\Alex\SkyDrive\My Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\obj\Debug\DetailPage.g.i.cs
+C:\Users\Alex\SkyDrive\My Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\obj\Debug\DetailPage.g.cs
+C:\Users\Alex\SkyDrive\My Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\obj\Debug\HomePage.g.i.cs
+C:\Users\Alex\SkyDrive\My Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\obj\Debug\HomePage.g.cs
+C:\Users\Alex\SkyDrive\My Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Alex\SkyDrive\My Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\obj\Debug\App.xaml
+C:\Users\Alex\SkyDrive\My Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\obj\Debug\CommentPage.xaml
+C:\Users\Alex\SkyDrive\My Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\obj\Debug\Common\StandardStyles.xaml
+C:\Users\Alex\SkyDrive\My Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\obj\Debug\DetailPage.xaml
+C:\Users\Alex\SkyDrive\My Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\obj\Debug\HomePage.xaml
+C:\Users\Alex\SkyDrive\My Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\obj\Debug\TheBellyofAuthority.exe
+C:\Users\Alex\SkyDrive\My Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\obj\Debug\TheBellyofAuthority.pdb
+C:\Users\Alex\SkyDrive\My Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\obj\Debug\TheBellyofAuthority.csproj.GenerateResource.Cache
+C:\Users\Alex\SkyDrive\My Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\obj\Debug\priconfig.xml.intermediate
+C:\Users\Alex\SkyDrive\My Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\obj\Debug\layout.resfiles.intermediate
+C:\Users\Alex\SkyDrive\My Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\obj\Debug\resources.resfiles.intermediate
+C:\Users\Alex\SkyDrive\My Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\obj\Debug\pri.resfiles.intermediate
+C:\Users\Alex\SkyDrive\My Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\obj\Debug\priconfig.xml
+C:\Users\Alex\SkyDrive\My Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\obj\Debug\layout.resfiles
+C:\Users\Alex\SkyDrive\My Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\obj\Debug\resources.resfiles
+C:\Users\Alex\SkyDrive\My Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\obj\Debug\pri.resfiles
+C:\Users\Alex\SkyDrive\My Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\obj\Debug\LanguageQualifiers.txt
+C:\Users\Alex\SkyDrive\My Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\obj\Debug\Callisto.pri.xml
+C:\Users\Alex\SkyDrive\My Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\obj\Debug\ProjectArchitectures.txt

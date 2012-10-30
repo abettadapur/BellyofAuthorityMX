@@ -1,0 +1,154 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ALEX-PC</Machine>
+    <WindowsUser>Alex</WindowsUser>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>57A84F420B9BDCB1FB5FE310E2A58A37BADDD1120048140923C4510A340A03D3</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>38850GridWorksApplication.BellyofAuthorityMetro_1.0.0.2_neutral__w9yt4d1mdbc7j</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>38850GridWorksApplication.BellyofAuthorityMetro_w9yt4d1mdbc7j!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>38850GridWorksApplication.BellyofAuthorityMetro</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=26F99B6E-5591-410F-AF6D-3DC96BD0E7C7</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.2</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Alex\SkyDrive\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\bin\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-10-06T18:44:10.078</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Alex\SkyDrive\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\bin\Release\TheBellyofAuthority.exe">
+      <PackagePath>TheBellyofAuthority.exe</PackagePath>
+      <Modified>2012-10-06T19:02:01.209</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Alex\SkyDrive\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\bin\Release\TheBellyofAuthority.pdb">
+      <PackagePath>TheBellyofAuthority.pdb</PackagePath>
+      <Modified>2012-10-06T19:02:01.186</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Alex\SkyDrive\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\packages\Callisto.1.0.10\lib\winrt45\Callisto.dll">
+      <PackagePath>Callisto.dll</PackagePath>
+      <Modified>2012-07-10T15:11:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Alex\SkyDrive\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\Fizzler.dll">
+      <PackagePath>Fizzler.dll</PackagePath>
+      <Modified>2012-07-06T17:58:07.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Alex\SkyDrive\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\HtmlAgilityPack.dll">
+      <PackagePath>HtmlAgilityPack.dll</PackagePath>
+      <Modified>2012-07-06T17:58:07.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Alex\SkyDrive\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\packages\Newtonsoft.Json.4.5.7\lib\winrt45\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+      <Modified>2012-07-06T13:37:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Alex\SkyDrive\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\packages\Newtonsoft.Json.4.5.7\lib\winrt45\Newtonsoft.Json.xml">
+      <PackagePath>Newtonsoft.Json.xml</PackagePath>
+      <Modified>2012-07-06T13:37:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Alex\SkyDrive\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\Assets\YC150.jpg">
+      <PackagePath>Assets\YC150.jpg</PackagePath>
+      <Modified>2012-07-27T15:59:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Alex\SkyDrive\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\Images\YC120.jpg">
+      <PackagePath>Images\YC120.jpg</PackagePath>
+      <Modified>2012-07-27T19:15:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Alex\SkyDrive\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\Images\Tomato.jpg">
+      <PackagePath>Images\Tomato.jpg</PackagePath>
+      <Modified>2012-07-06T15:10:57.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Alex\SkyDrive\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\Assets\SmallLogo.jpg">
+      <PackagePath>Assets\SmallLogo.jpg</PackagePath>
+      <Modified>2012-07-06T14:59:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Alex\SkyDrive\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\Images\BellyLogo.png">
+      <PackagePath>Images\BellyLogo.png</PackagePath>
+      <Modified>2012-09-14T07:13:04.825</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Alex\SkyDrive\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\Images\BellyLogo120.png">
+      <PackagePath>Images\BellyLogo120.png</PackagePath>
+      <Modified>2012-09-14T07:09:42.677</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Alex\SkyDrive\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\Images\BellyLogo150.png">
+      <PackagePath>Images\BellyLogo150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-09-14T07:16:23.098</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Alex\SkyDrive\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\Images\BellyLogoWide310.png">
+      <PackagePath>Images\BellyLogoWide310.png</PackagePath>
+      <Modified>2012-09-14T22:10:29.379</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Alex\SkyDrive\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\Images\BellyLogoWide620.png">
+      <PackagePath>Images\BellyLogoWide620.png</PackagePath>
+      <Modified>2012-09-14T22:12:13.915</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Alex\SkyDrive\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\Images\BellySplash.png">
+      <PackagePath>Images\BellySplash.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-09-14T07:22:44.675</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Alex\SkyDrive\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\Images\BellyStoreLogo30.png">
+      <PackagePath>Images\BellyStoreLogo30.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-09-14T07:35:51.811</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Alex\SkyDrive\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\Images\BellyStoreLogo50.png">
+      <PackagePath>Images\BellyStoreLogo50.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-09-14T07:52:28.687</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Alex\SkyDrive\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <Modified>2012-03-19T21:54:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Alex\SkyDrive\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\Assets\SmallLogoBCK.png">
+      <PackagePath>Assets\SmallLogoBCK.png</PackagePath>
+      <Modified>2012-03-19T21:54:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Alex\SkyDrive\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <Modified>2012-03-19T21:54:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Alex\SkyDrive\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <Modified>2012-03-19T21:54:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Alex\SkyDrive\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+      <Modified>2012-07-06T12:52:15.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Alex\SkyDrive\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\bin\Release\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2012-07-27T14:28:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Alex\SkyDrive\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\bin\Release\CommentPage.xaml">
+      <PackagePath>CommentPage.xaml</PackagePath>
+      <Modified>2012-07-31T14:20:43.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Alex\SkyDrive\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\bin\Release\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-07-26T19:25:53.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Alex\SkyDrive\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\bin\Release\DetailPage.xaml">
+      <PackagePath>DetailPage.xaml</PackagePath>
+      <Modified>2012-10-06T18:53:27.988</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Alex\SkyDrive\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\bin\Release\HomePage.xaml">
+      <PackagePath>HomePage.xaml</PackagePath>
+      <Modified>2012-10-06T19:00:24.919</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Alex\SkyDrive\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\packages\Callisto.1.0.10\lib\winrt45\Callisto\themes\Generic.xaml">
+      <PackagePath>Callisto\themes\Generic.xaml</PackagePath>
+      <Modified>2012-07-10T15:11:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Alex\SkyDrive\Documents\Visual Studio 2012\Projects\TheBellyofAuthority\TheBellyofAuthority\bin\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2012-09-21T14:20:27.946</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
